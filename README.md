@@ -1,5 +1,3 @@
-# DSA-With-C
-
 # Data Structures and Algorithms (DSA)
 
 Welcome to my **DSA** repository!  
